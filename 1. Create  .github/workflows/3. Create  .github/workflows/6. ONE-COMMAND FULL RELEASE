@@ -1,2 +1,0 @@
-# Just push a version tag — everything deploys automatically
-npm run release
